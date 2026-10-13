@@ -1,0 +1,9 @@
+.venv
+PyTorch/.venv
+PyTorch/Tutorials
+TensorFlow/.venv
+TensorFlow/Tutorials/*
+*.code-workspace
+basic_plots
+*.vscode
+*/Tutorials
