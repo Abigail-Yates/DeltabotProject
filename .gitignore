@@ -7,3 +7,4 @@ TensorFlow/Tutorials/*
 basic_plots
 *.vscode
 */Tutorials
+*.keras
